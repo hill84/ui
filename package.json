@@ -10,7 +10,10 @@
     "packages/*"
   ],
   "devDependencies": {
+    "@types/react-dom": "^16.9.8",
     "lerna": "^3.21.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "typescript": "^3.9.3"
   }
 }
