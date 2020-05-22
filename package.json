@@ -1,0 +1,10 @@
+{
+  "name": "@aii/react-ui",
+  "version": "0.0.0",
+  "description": "A component library based on React",
+  "main": "index.js",
+  "repository": "https://github.com/hill84/ui.git",
+  "author": "Giuseppe Gerbino <giu.gerbino@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
